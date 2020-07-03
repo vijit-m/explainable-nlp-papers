@@ -1,6 +1,6 @@
-#PAPERS:
+# PAPERS:
 
-##ACL2020:
+## ACL2020:
 1.  DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification ([paper](https://arxiv.org/pdf/2004.13455.pdf))
 2.  ESPRIT: Explaining Solutions to Physical Reasoning Tasks ([paper](https://arxiv.org/pdf/2005.00730.pdf))
 3.  Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? ([paper](https://arxiv.org/pdf/2005.01831))
