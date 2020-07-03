@@ -1,0 +1,22 @@
+#PAPERS:
+
+##ACL2020:
+1.  DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification ([paper](https://arxiv.org/pdf/2004.13455.pdf))
+2.  ESPRIT: Explaining Solutions to Physical Reasoning Tasks ([paper](https://arxiv.org/pdf/2005.00730.pdf))
+3.  Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? ([paper](https://arxiv.org/pdf/2005.01831))
+4.  Evaluating Explanation Methods for Neural Machine Translation ([paper](https://arxiv.org/pdf/2005.01672.pdf))
+5.  Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions ([paper](https://arxiv.org/pdf/2005.06676))
+6.  GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media ([paper](https://arxiv.org/pdf/2004.11648))
+7.  Generating Fact Checking Explanations ([paper](https://arxiv.org/pdf/2004.05773.pdf))
+8.  Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection ([paper](https://arxiv.org/pdf/2004.02015))
+9.  Learning to Deceive with Attention-Based Explanations ([paper](https://arxiv.org/pdf/1909.07913))
+10. NILE : Natural Language Inference with Faithful Natural Language Explanations ([paper](https://arxiv.org/pdf/2005.12116))
+11. Towards Transparent and Explainable Attention Models ([paper](https://arxiv.org/pdf/2004.14243.pdf))
+12. Contextualizing Hate Speech Classifiers with Post-hoc Explanation ([paper](https://arxiv.org/pdf/2005.02439))
+13. ExpBERT: Representation Engineering with Natural Language Explanations ([paper](https://arxiv.org/pdf/2005.01932.pdf))
+14. Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations ([paper](https://arxiv.org/pdf/1910.03065))
+15. Relation Extraction with Explanation ([paper](https://arxiv.org/pdf/2005.14271))
+16. TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition ([paper](https://arxiv.org/pdf/2004.07493))
+17. LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation ([paper](https://arxiv.org/pdf/2004.07499))
+18. Considering Likelihood in NLP Classification Explanations with Occlusion and Language Modeling ([paper](https://arxiv.org/pdf/2004.09890.pdf))
+19. Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder ([paper](https://www.aclweb.org/anthology/2020.acl-srw.23.pdf))
